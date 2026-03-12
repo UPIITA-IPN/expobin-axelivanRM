@@ -1,6 +1,6 @@
-baseM = int(input("Introduce el valor de M: "))
-expe = int(input("Introduce el valor de e: "))
-modulon = int(input("Introduce el valor de n: "))
+baseM = 2
+expe = 1234
+modulon = 789
 
 binario = format(expe, "b")
 print(binario)
